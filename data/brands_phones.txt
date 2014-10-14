@@ -1,0 +1,24 @@
+AT&T
+Alcatel
+Ameriphone
+Apple
+BlackBerry
+DBL
+Global Star
+HTC
+Jitterbug
+Just5
+Kyocera
+LG
+MOTCB
+Motorola
+Nokia
+Pantech
+Polycom
+Samsung
+Sanyo
+T Mobile
+Unknown
+Verizon
+Virgin Mobile
+ZTE

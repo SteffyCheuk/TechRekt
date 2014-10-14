@@ -1,0 +1,11 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+#questionaire {
+	padding-top: 100px;
+	width: 70%;
+	margin: auto;
+	padding-bottom: 100px;
+}
